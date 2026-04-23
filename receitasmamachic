@@ -1,0 +1,104 @@
+{
+  "id": "/?source=pwa",
+  "name": "Receitas da Mama | Receitas Fáceis, Bolos, Sobremesas e Comidas Lucrativas",
+  "short_name": "Receitas Mama",
+  "description": "Aprenda receitas fáceis, rápidas e lucrativas: bolos, sobremesas, almoço, jantar, doces e receitas para vender. Conteúdo atualizado diariamente.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "https://receitasmamachic.blogspot.com/?source=pwa&utm_source=homescreen&utm_medium=pwa&utm_campaign=install",
+  "scope": "https://receitasmamachic.blogspot.com/",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b35",
+  "categories": [
+    "food",
+    "recipes",
+    "cooking",
+    "lifestyle"
+  ],
+  "prefer_related_applications": false,
+  "launch_handler": {
+    "client_mode": [
+      "navigate-existing",
+      "auto"
+    ]
+  },
+  "shortcuts": [
+    {
+      "name": "Bolos Caseiros",
+      "short_name": "Bolos",
+      "description": "Veja receitas de bolos fofinhos e lucrativos.",
+      "url": "https://receitasmamachic.blogspot.com/search/label/Bolos?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFDTjvU78LekBiUZYovcWfDkCYjmswKsBBZ6yU7BswpA43UnV9QDEwVQ8t9Eca9dZChS1xprBUtvDG06m-vJPs_4psblvrdIZzQZ5FtYSDCaxOf7tENanq3jFwuN8nuF7ZHI2hFbNeFsVKE_Fa8E8ws66_oarZAWwA6BWdUL7MWyJRqIYlKbHLSZt/s192-c/receita-da-mama-logo-laranja-550.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Sobremesas",
+      "short_name": "Doces",
+      "description": "Sobremesas rápidas e irresistíveis.",
+      "url": "https://receitasmamachic.blogspot.com/search/label/Sobremesas?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFDTjvU78LekBiUZYovcWfDkCYjmswKsBBZ6yU7BswpA43UnV9QDEwVQ8t9Eca9dZChS1xprBUtvDG06m-vJPs_4psblvrdIZzQZ5FtYSDCaxOf7tENanq3jFwuN8nuF7ZHI2hFbNeFsVKE_Fa8E8ws66_oarZAWwA6BWdUL7MWyJRqIYlKbHLSZt/s192-c/receita-da-mama-logo-laranja-550.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Receitas para Vender",
+      "short_name": "Vender",
+      "description": "Receitas lucrativas para renda extra.",
+      "url": "https://receitasmamachic.blogspot.com/search/label/Receitas%20para%20Vender?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFDTjvU78LekBiUZYovcWfDkCYjmswKsBBZ6yU7BswpA43UnV9QDEwVQ8t9Eca9dZChS1xprBUtvDG06m-vJPs_4psblvrdIZzQZ5FtYSDCaxOf7tENanq3jFwuN8nuF7ZHI2hFbNeFsVKE_Fa8E8ws66_oarZAWwA6BWdUL7MWyJRqIYlKbHLSZt/s192-c/receita-da-mama-logo-laranja-550.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFDTjvU78LekBiUZYovcWfDkCYjmswKsBBZ6yU7BswpA43UnV9QDEwVQ8t9Eca9dZChS1xprBUtvDG06m-vJPs_4psblvrdIZzQZ5FtYSDCaxOf7tENanq3jFwuN8nuF7ZHI2hFbNeFsVKE_Fa8E8ws66_oarZAWwA6BWdUL7MWyJRqIYlKbHLSZt/s192-c/receita-da-mama-logo-laranja-550.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFDTjvU78LekBiUZYovcWfDkCYjmswKsBBZ6yU7BswpA43UnV9QDEwVQ8t9Eca9dZChS1xprBUtvDG06m-vJPs_4psblvrdIZzQZ5FtYSDCaxOf7tENanq3jFwuN8nuF7ZHI2hFbNeFsVKE_Fa8E8ws66_oarZAWwA6BWdUL7MWyJRqIYlKbHLSZt/s512-c/receita-da-mama-logo-laranja-550.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFDTjvU78LekBiUZYovcWfDkCYjmswKsBBZ6yU7BswpA43UnV9QDEwVQ8t9Eca9dZChS1xprBUtvDG06m-vJPs_4psblvrdIZzQZ5FtYSDCaxOf7tENanq3jFwuN8nuF7ZHI2hFbNeFsVKE_Fa8E8ws66_oarZAWwA6BWdUL7MWyJRqIYlKbHLSZt/s1200/receita-da-mama-logo-laranja-550.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Receitas da Mama no celular"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFDTjvU78LekBiUZYovcWfDkCYjmswKsBBZ6yU7BswpA43UnV9QDEwVQ8t9Eca9dZChS1xprBUtvDG06m-vJPs_4psblvrdIZzQZ5FtYSDCaxOf7tENanq3jFwuN8nuF7ZHI2hFbNeFsVKE_Fa8E8ws66_oarZAWwA6BWdUL7MWyJRqIYlKbHLSZt/s1200/receita-da-mama-logo-laranja-550.png",
+      "sizes": "1440x900",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Receitas da Mama no computador"
+    }
+  ]
+}
